@@ -1,10 +1,9 @@
+import 'package:book_store/Features/home/presentation/views/home_view_body.dart';
 import 'package:book_store/Features/presentation/views/widgets/sliding_animation.dart';
 import 'package:book_store/constant.dart';
 import 'package:book_store/core/utils/assets.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import '../../../home/presentation/views/home_view.dart';
 
 class SplashViewBody extends StatefulWidget {
   const SplashViewBody({super.key});
